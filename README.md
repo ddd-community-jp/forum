@@ -10,4 +10,4 @@ Issues のみを使います。
   - これのクローズ判断も今のところは個人個人の感覚で好きにやっちゃって大丈夫です。（必要とあらば Reopen もできますし、Close について慎重になる必要はありません）
 
 ## ここ以外の発言の場
-チャットルーム ([Discord](discord.gg/vrQ2ut9))
+チャットルーム ([Discord](https://discord.gg/vrQ2ut9))
